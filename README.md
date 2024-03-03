@@ -62,3 +62,37 @@ Follow these steps to get started with SecureKeyVault:
 
 ```bash
 git clone https://github.com/wasserpuncher/SecureKeyVault.git
+
+```
+Install the required dependencies:
+
+```bash
+
+pip install -r requirements.txt
+
+```
+
+Run the application:
+
+```bash
+python main.py
+
+
+```
+
+### Enjoy the secure and unique features of SecureKeyVault!
+### Contributing
+We welcome contributions from the community. If you have ideas for improvements, bug fixes, or new features, please open an issue or submit a pull request.
+
+### License
+This project is licensed under the MIT License, making it open and accessible for everyone.
+
+### Acknowledgments
+Special thanks to the open-source community for their valuable contributions.
+Inspired by the need for a comprehensive and secure password management solution.
+
+
+
+
+
+
